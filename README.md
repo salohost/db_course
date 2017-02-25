@@ -1,5 +1,5 @@
 # db_course
 Data base homework
 
-$ \latex $
-$ \lambda^2 + lambda + 1 $
+$$ \latex $$
+$$ \lambda^2 + lambda + 1 $$
